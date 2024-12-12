@@ -1,4 +1,12 @@
 # UraBlog
+
+code學習: 
+* YOUTUBE: 
+    - [GrandmaCan -我阿嬤都會](/https://www.youtube.com/@GrandmaCan)
+        - [如何建立一個網頁](https://www.youtube.com/watch?v=O8qzxGWIEZ8&list=PLRjgE3pAnTILsGKX5zF6jP8TLxPA0v6rL)
+        - [【javascript】3小時初學者教學](https://www.youtube.com/watch?v=yZwlW5INhgk&t=10259s)
+
+----------------------
 Myblog
 
 
